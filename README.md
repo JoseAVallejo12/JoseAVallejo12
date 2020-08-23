@@ -2,7 +2,7 @@
 
 <h2 align="center"> Hi, I'm Jose Vallejo <br/> </h2> 
 
-<p align="center"><img width=50% src="https://i.imgur.com/v7eiyZC.png"></p>
+<p align="center"><img width=30% src="https://i.imgur.com/v7eiyZC.png"></p>
 
 
 <p align="center"> <samp>Hi, My name is Jose Vallejo. I am a software engineer. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer. In my repos you'll find projects created using
@@ -10,7 +10,7 @@
 
 ## Tech Stack :computer: <br>
 
-<table>
+<table align="center">
   <tbody>
    <tr>
 		<td align="center" width="20%">
