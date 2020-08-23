@@ -2,8 +2,9 @@
 
 <h2 align="center"> Hi, I'm Jose Vallejo <br/> </h2>
 
-
-<iframe src="https://giphy.com/embed/gh0RRgkTXedvF0pDc0" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/city-marketing-public-gh0RRgkTXedvF0pDc0">via GIPHY</a></p>
+<div style="text-align:center">
+	<img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
+</div>
 
 
 <p align="center"> <samp>Hi, My name is Jose Vallejo. I am a software engineer. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer. In my repos you'll find projects created using
