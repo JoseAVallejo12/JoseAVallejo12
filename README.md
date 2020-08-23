@@ -2,9 +2,9 @@
 
 <h2 align="center"> Hi, I'm Jose Vallejo <br/> </h2>
 
-<div style="text-align:center">
+<p align="center">
 	<img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
-</div>
+</p>
 
 
 <p align="center"> <samp>Hi, My name is Jose Vallejo. I am a software engineer. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer. In my repos you'll find projects created using
