@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<h2 align="center"> Hi, I'm Piyush Bajaj 👋 <br/> </h2> 
+<h2 align="center"> Hi, I'm Jose Vallejo <br/> </h2> 
 
-<p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
+<p align="center"><img width=50% src="https://i.imgur.com/v7eiyZC.png"></p>
 
 
-<p align="center"> <samp>Hi, My name is Piyush Bajaj. I am a Computer Science B.Tech college student. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using 
+<p align="center"> <samp>Hi, My name is Jose Vallejo. I am a software engineer. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer. In my repos you'll find projects created using 
   
   
 ## Tech Stack :computer:
@@ -20,21 +20,11 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
-</td>
-
-<td align="center" width="20%">
 <span><b><center>NodeJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
 </tr>
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
-</td>
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
@@ -54,11 +44,9 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>C++</center></b></span> 
+<span><b><center>C/C++</center></b></span> 
 <img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
 </td>
-
-
 
 <td align="center" width="20%">
 <span><b><center>Flutter</center></b></span> 
@@ -83,6 +71,23 @@
 </td>
 </tr>
 
+<td align="center" width="20%">
+<span><b><center>CSS</center></b></span> 
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+</td>
+</tr>
+
+<td align="center" width="20%">
+<span><b><center>Docker</center></b></span> 
+<img src="https://img.icons8.com/color/48/000000/docker.png"/>
+</td>
+</tr>
+
+
+
+
+
+
 </tbody>
 </table>
 
@@ -100,12 +105,6 @@ ____
 
 ____
 
-
-<p align="center">
-
-⭐️ [piyushxbajaj](https://github.com/piyushxbajaj)
-
-</p>
 
 <!--
 **josevallejo1984/josevallejo1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
