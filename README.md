@@ -7,7 +7,7 @@
 </p>
 
 
-<p align="center"> <samp>Hi, My name is Jose Vallejo. I am a software engineer. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer. In my repos you'll find projects created using
+<p align="center"> <samp>Hi, My name is Jose Vallejo. I am a software engineer. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a effective programmer. In my repos you'll find projects created using:
 
 
 ## Tech Stack :computer: <br>
