@@ -92,6 +92,11 @@ ____
 
 ____
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Jose Vallejo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoseAVallejo12&show_icons=true&hide_border=true" />
+  <img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=JoseAVallejo12&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/>
+</details>
 
 <!--
 **josevallejo1984/josevallejo1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
