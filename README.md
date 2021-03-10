@@ -16,58 +16,60 @@
   <tbody>
    <tr>
 		<td align="center" width="20%">
-			<span><b><center>ReactJS</center></b></span>
-			<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png">
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/ultraviolet/2x/react.png">ReactJS</p>
 		</td>
 		<td align="center" width="20%">
-			<span><b><center>Git</center></b></span>
-			<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png">
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/ios-glyphs/2x/github-2.png">Git</p>
 		</td>
 		<td align="center" width="20%">
-			<span><b><center>Bash</center></b></span>
-			<img height=65px src="https://img.icons8.com/bubbles/2x/console.png">
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/bubbles/2x/console.png">Bash</p>
 		</td>
 		<td align="center" width="20%">
-			<span><b><center>SQL</center></b></span> 
-			<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png">
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/ios-filled/2x/sql.png">SQL</p>
 		</td>
 	</tr>
 	<tr>
 		<td align="center" width="20%">
-			<span><b><center>NodeJS</center></b></span> 
-			<img height=60px src="https://img.icons8.com/color/2x/nodejs.png">
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/2x/nodejs.png">NodeJS</p>
 		</td>
 		<td align="center" width="20%">
-			<span><b><center>Docker</center></b></span>
-			<img src="https://img.icons8.com/color/48/000000/docker.png"/>
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/docker.png"/>Docker</p>
 		</td>
 		<td align="center" width="20%">
-			<span><b><center>Python</center></b></span>
-			<img height=65px src="https://img.icons8.com/color/2x/python.png">
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/2x/python.png">Phyton</p>
 		</td>
 		<td align="center" width="20%">
-			<span><b><center>C/C++</center></b></span>
-			<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png">
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/amazon-web-services.png">AWS</p>
 		</td>
 	</tr>
 	<tr>
 		<td align="center" width="20%">
-			<span><b><center>Flutter</center></b></span>
-			<img height=65px src="https://img.icons8.com/color/2x/flutter.png">
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/2x/flutter.png">Flutter</p>
 		</td>
 		<td align="center" width="20%">
-			<span><b><center>JavaScript</center></b></span>
-			<img height=65px src="https://img.icons8.com/color/2x/javascript.png">
+			<p><img style="display: block;" height=65px src="https://img.icons8.com/color/2x/javascript.png">JavaScript</p>
 		</td>
 		<td align="center" width="20%">
-			<span><b><center>HTML</center></b></span>
-			<img height=65px src="https://img.icons8.com/color/2x/html-5.png">
+			<p><img style="display: block;" height=65px src="https://img.icons8.com/color/2x/html-5.png">HTML</p>
 		</td>
 		<td align="center" width="20%">
-			<span><b><center>CSS</center></b></span> 
-			<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/css3.png"/>CSS</p>
 			</td>
-  	</tr>
+  </tr>
+	<tr>
+		<td align="center" width="20%">
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/typescript.png"/>TypeScript</a></p>
+		</td>
+		<td align="center" width="20%">
+			<p><img style="display: block;" height=60px src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">Next JS</p>
+		</td>
+		<td align="center" width="20%">
+			<p><img style="display: block;" height=60px src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png">NextJS</p>
+		</td>
+		<td align="center" width="20%">
+		<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/mongodb.png">MongoDB</p>
+		</td>
+	</tr>
 </tbody>
 </table>
 
@@ -79,13 +81,13 @@ ____
 <br />
 <p align="center">
 	<a href="https://twitter.com/JoseAVallejo12/">
-		<img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>
+		<img style="margin-left: 10px;" heigrt=60px src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>
 	</a>
-	<a href="https://web.facebook.com/josealfredo.vallejocontreras.1?_rdc=1&_rdr/">
-		<img src="https://img.icons8.com/cute-clipart/64/000000/facebook.png"/>
+	<a style="margin: 10px;" href="https://web.facebook.com/josealfredo.vallejocontreras.1?_rdc=1&_rdr/">
+		<img style="margin-left: 10px;" heigrt=60px src="https://img.icons8.com/cute-clipart/64/000000/facebook.png"/>
 	</a>
 	<a href="https://www.linkedin.com/in/jose-alfredo-vallejo-contreras-38199480/">
-		<img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
+		<img style="margin-left: 10px;" heigrt=60px src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>
 	</a>
 
 </p>
