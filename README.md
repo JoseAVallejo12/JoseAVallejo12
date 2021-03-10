@@ -14,74 +14,74 @@
   <tbody>
    <tr>
 		<td align="center" width="20%">
-			<p><a align="center" href="https://aws.amazon.com/es/" >
-				<img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/amazon-web-services.png" /></a>AWS</p>
+			<p><a style="display: block;" align="center" href="https://aws.amazon.com/es/" >
+				<img height=60px src="https://img.icons8.com/color/48/000000/amazon-web-services.png" /></a>AWS</p>
 		</td>
 		<td align="center" width="20%">
-			<p><a align="center" href="https://github.com/" >
-				<img style="display: block;" height=60px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"></a>Git</p>
+			<p><a style="display: block;" align="center" href="https://github.com/" >
+				<img height=60px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"></a>Git</p>
 		</td>
 		<td align="center" width="20%">
-			<p><a align="center" href="https://www.linux.org/" >
-				<img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/linux.png" /></a>Linux</p>
+			<p><a style="display: block;" align="center" href="https://www.linux.org/" >
+				<img height=60px src="https://img.icons8.com/color/48/000000/linux.png" /></a>Linux</p>
 		</td>
 		<td align="center" width="20%">
-			<p><a align="center" href="https://www.jenkins.io/" >
-				<img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/jenkins.png" /></a>Jenkins</p>
-		</td>
-	</tr>
-	<tr>
-		<td align="center" width="20%">
-			<p><a align="center" href="https://www.docker.com/">
-				<img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/docker.png"/></a>Docker</p>
-		</td>
-		<td align="center" width="20%">
-			<p><a align="center" href="https://nodejs.org/es/docs/" >
-				<img style="display: block;" height=60px src="https://img.icons8.com/color/2x/nodejs.png" /></a>NodeJS</p>
-		</td>
-		<td align="center" width="20%">
-			<p><a align="center" align="center" href="https://www.mongodb.com/es" >
-				<img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/mongodb.png"></a>MongoDB</p>
-		</td>
-		<td align="center" width="20%">
-			<p><a align="center" href="https://www.mysql.com/" >
-				<img style="display: block;" height=60px src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" /></a>MySQL</p>
+			<p><a style="display: block;" align="center" href="https://www.jenkins.io/" style="display: block;">
+				<img height=60px src="https://img.icons8.com/color/48/000000/jenkins.png" /></a>Jenkins</p>
 		</td>
 	</tr>
 	<tr>
 		<td align="center" width="20%">
-			<p><a align="center" href="https://www.python.org/" target="_blank">
-				<img style="display: block;" height=60px src="https://img.icons8.com/color/2x/python.png" /></a>Phyton</p>
+			<p><a style="display: block;" align="center" href="https://www.docker.com/">
+				<img height=60px src="https://img.icons8.com/color/48/000000/docker.png"/></a>Docker</p>
 		</td>
 		<td align="center" width="20%">
-			<p><a align="center" href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-				<img style="display: block;" height=65px src="https://img.icons8.com/color/2x/javascript.png" /></a>JavaScript</p>
+			<p><a style="display: block;" align="center" href="https://nodejs.org/es/docs/" >
+				<img height=60px src="https://img.icons8.com/color/2x/nodejs.png" /></a>NodeJS</p>
 		</td>
 		<td align="center" width="20%">
-			<p><a align="center" href="https://www.typescriptlang.org/">
-				<img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/typescript.png"/></a>TypeScript</p>
+			<p><a style="display: block;" align="center" align="center" href="https://www.mongodb.com/es" >
+				<img height=60px src="https://img.icons8.com/color/48/000000/mongodb.png"></a>MongoDB</p>
 		</td>
 		<td align="center" width="20%">
-			<p><a align="center" href="https://developer.mozilla.org/es/docs/Web/CSS">
-				<img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/css3.png" /></a>CSS</p>
+			<p><a style="display: block;" align="center" href="https://www.mysql.com/" >
+				<img height=60px src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" /></a>MySQL</p>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" width="20%">
+			<p><a style="display: block;" align="center" href="https://www.python.org/" target="_blank">
+				<img height=60px src="https://img.icons8.com/color/2x/python.png" /></a>Phyton</p>
+		</td>
+		<td align="center" width="20%">
+			<p><a style="display: block;" align="center" href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+				<img height=65px src="https://img.icons8.com/color/2x/javascript.png" /></a>JavaScript</p>
+		</td>
+		<td align="center" width="20%">
+			<p><a style="display: block;" align="center" href="https://www.typescriptlang.org/">
+				<img height=60px src="https://img.icons8.com/color/48/000000/typescript.png"/></a>TypeScript</p>
+		</td>
+		<td align="center" width="20%">
+			<p><a style="display: block;" align="center" href="https://developer.mozilla.org/es/docs/Web/CSS">
+				<img height=60px src="https://img.icons8.com/color/48/000000/css3.png" /></a>CSS</p>
 			</td>
   </tr>
 	<tr>
 		<td align="center" width="20%">
-			<p><a align="center" href="https://developer.mozilla.org/es/docs/Web/HTML">
-				<img style="display: block;" height=65px src="https://img.icons8.com/color/2x/html-5.png" />HTML</p></a>
+			<p><a style="display: block;" align="center" href="https://developer.mozilla.org/es/docs/Web/HTML">
+				<img height=65px src="https://img.icons8.com/color/2x/html-5.png" />HTML</p></a>
 		</td>
 		<td align="center" width="20%">
-			<p><a align="center" href="https://nextjs.org/" >
-				<img style="display: block;" height=60px src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"></a>Next JS</p>
+			<p><a style="display: block;" align="center" href="https://nextjs.org/" >
+				<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"></a>Next JS</p>
 		</td>
 		<td align="center" width="20%">
-			<p><a align="center" href="https://nestjs.com/">
-				<img style="display: block;" height=60px src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png"></a>Nest</p>
+			<p><a style="display: block;" align="center" href="https://nestjs.com/">
+				<img height=60px src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png"></a>Nest</p>
 		</td>
 		<td align="center" width="20%">
-			<p><a align="center" href="https://es.reactjs.org/">
-				<img style="display: block;" height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"></a>React</p>
+			<p><a style="display: block;" align="center" href="https://es.reactjs.org/">
+				<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"></a>React</p>
 		</td>
 	</tr>
 </tbody>
