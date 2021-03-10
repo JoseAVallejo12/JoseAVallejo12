@@ -14,7 +14,7 @@ table {
 	margin: auto;
 }
 </style>
-<table align="center" style="margin: auto;">
+<table align="center">
 	<tbody>
 	<tr>
 		<td align="center" width="20%">
