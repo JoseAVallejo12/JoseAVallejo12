@@ -10,7 +10,7 @@
 
 ## Tech Stack :computer: <br>
 
-<table align="center">
+<table align="center" style="margin: 0 auto">
   <tbody>
    <tr>
 		<td align="center" width="20%">
