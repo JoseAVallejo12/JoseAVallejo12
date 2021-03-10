@@ -9,7 +9,11 @@
 <p align="center"> <samp>Hi, My name is Jose Vallejo. I am a software developer. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a effective programmer. In my repos you'll find projects created using:
 
 ## Tech Stack :computer: <br>
-
+<style>
+table {
+	margin: auto;
+}
+</style>
 <table align="center" style="margin: auto;">
 	<tbody>
 	<tr>
