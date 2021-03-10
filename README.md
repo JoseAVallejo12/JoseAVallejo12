@@ -3,7 +3,7 @@
 <h2 align="center"> Hi, I'm Jose Vallejo <br/> </h2>
 
 <p align="center">
-	<img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
+	<img style="border-radius: 50%" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
 </p>
 
 
@@ -16,49 +16,49 @@
   <tbody>
    <tr>
 		<td align="center" width="20%">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/ultraviolet/2x/react.png">ReactJS</p>
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />AWS</p>
 		</td>
 		<td align="center" width="20%">
 			<p><img style="display: block;" height=60px src="https://img.icons8.com/ios-glyphs/2x/github-2.png">Git</p>
 		</td>
 		<td align="center" width="20%">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/bubbles/2x/console.png">Bash</p>
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/linux.png" />Linux</p>
 		</td>
 		<td align="center" width="20%">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/ios-filled/2x/sql.png">SQL</p>
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/jenkins.png" />Jenkins</p>
 		</td>
 	</tr>
 	<tr>
-		<td align="center" width="20%">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/2x/nodejs.png">NodeJS</p>
-		</td>
 		<td align="center" width="20%">
 			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/docker.png"/>Docker</p>
 		</td>
 		<td align="center" width="20%">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/2x/python.png">Phyton</p>
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/2x/nodejs.png" />NodeJS</p>
 		</td>
 		<td align="center" width="20%">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/amazon-web-services.png">AWS</p>
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/mongodb.png">MongoDB</p>
+		</td>
+		<td align="center" width="20%">
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" />MySQL</p>
 		</td>
 	</tr>
 	<tr>
 		<td align="center" width="20%">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/2x/flutter.png">Flutter</p>
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/2x/python.png" />Phyton</p>
 		</td>
 		<td align="center" width="20%">
-			<p><img style="display: block;" height=65px src="https://img.icons8.com/color/2x/javascript.png">JavaScript</p>
+			<p><img style="display: block;" height=65px src="https://img.icons8.com/color/2x/javascript.png" />JavaScript</p>
 		</td>
 		<td align="center" width="20%">
-			<p><img style="display: block;" height=65px src="https://img.icons8.com/color/2x/html-5.png">HTML</p>
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/typescript.png"/>TypeScript</a></p>
 		</td>
 		<td align="center" width="20%">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/css3.png"/>CSS</p>
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/css3.png" />CSS</p>
 			</td>
   </tr>
 	<tr>
 		<td align="center" width="20%">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/typescript.png"/>TypeScript</a></p>
+			<p><img style="display: block;" height=65px src="https://img.icons8.com/color/2x/html-5.png" />HTML</p>
 		</td>
 		<td align="center" width="20%">
 			<p><img style="display: block;" height=60px src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">Next JS</p>
@@ -67,7 +67,7 @@
 			<p><img style="display: block;" height=60px src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png">NextJS</p>
 		</td>
 		<td align="center" width="20%">
-		<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/mongodb.png">MongoDB</p>
+			<p><img style="display: block;" height=60px src="https://img.icons8.com/ultraviolet/2x/react.png">ReactJS</p>
 		</td>
 	</tr>
 </tbody>
