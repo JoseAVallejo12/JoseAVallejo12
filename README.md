@@ -6,76 +6,88 @@
 	<img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
 </p>
 
-
 <p align="center"> <samp>Hi, My name is Jose Vallejo. I am a software developer. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a effective programmer. In my repos you'll find projects created using:
-
 
 ## Tech Stack :computer: <br>
 
 <table align="center">
   <tbody>
    <tr>
-		<td align="center" width="20%"><a align="center" href="https://aws.amazon.com/es/" target="_blank" rel="noopener noreferrer">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />AWS</p></a>
+		<td align="center" width="20%">
+			<p><a align="center" href="https://aws.amazon.com/es/" >
+				<img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/amazon-web-services.png" /></a>AWS</p>
 		</td>
-		<td align="center" width="20%"><a align="center" href="https://github.com/" target="_blank" rel="noopener noreferrer">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/ios-glyphs/2x/github-2.png">Git</p></a>
+		<td align="center" width="20%">
+			<p><a align="center" href="https://github.com/" >
+				<img style="display: block;" height=60px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"></a>Git</p>
 		</td>
-		<td align="center" width="20%"><a align="center" href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/linux.png" />Linux</p></a>
+		<td align="center" width="20%">
+			<p><a align="center" href="https://www.linux.org/" >
+				<img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/linux.png" /></a>Linux</p>
 		</td>
-		<td align="center" width="20%"><a align="center" href="https://www.jenkins.io/" target="_blank" rel="noopener noreferrer">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/jenkins.png" />Jenkins</p></a>
-		</td>
-	</tr>
-	<tr>
-		<td align="center" width="20%"><a align="center" href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/docker.png"/>Docker</p></a>
-		</td>
-		<td align="center" width="20%"><a align="center" href="https://nodejs.org/es/docs/" target="_blank" rel="noopener noreferrer">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/2x/nodejs.png" />NodeJS</p></a>
-		</td>
-		<td align="center" width="20%"><a align="center" align="center" href="https://www.mongodb.com/es" target="_blank" rel="noopener noreferrer">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/mongodb.png">MongoDB</p></a>
-		</td>
-		<td align="center" width="20%"><a align="center" href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" />MySQL</p></a>
+		<td align="center" width="20%">
+			<p><a align="center" href="https://www.jenkins.io/" >
+				<img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/jenkins.png" /></a>Jenkins</p>
 		</td>
 	</tr>
 	<tr>
-		<td align="center" width="20%"><a align="center" href="https://www.python.org/" target="_blank">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/2x/python.png" />Phyton</p></a>
+		<td align="center" width="20%">
+			<p><a align="center" href="https://www.docker.com/">
+				<img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/docker.png"/></a>Docker</p>
 		</td>
-		<td align="center" width="20%"><a align="center" href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
-			<p><img style="display: block;" height=65px src="https://img.icons8.com/color/2x/javascript.png" />JavaScript</p>
+		<td align="center" width="20%">
+			<p><a align="center" href="https://nodejs.org/es/docs/" >
+				<img style="display: block;" height=60px src="https://img.icons8.com/color/2x/nodejs.png" /></a>NodeJS</p>
 		</td>
-		<td align="center" width="20%"><a align="center" href="https://www.typescriptlang.org/" target="_blank">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/typescript.png"/>TypeScript</p></a>
+		<td align="center" width="20%">
+			<p><a align="center" align="center" href="https://www.mongodb.com/es" >
+				<img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/mongodb.png"></a>MongoDB</p>
 		</td>
-		<td align="center" width="20%"><a align="center" href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/css3.png" />CSS</p></a>
+		<td align="center" width="20%">
+			<p><a align="center" href="https://www.mysql.com/" >
+				<img style="display: block;" height=60px src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" /></a>MySQL</p>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" width="20%">
+			<p><a align="center" href="https://www.python.org/" target="_blank">
+				<img style="display: block;" height=60px src="https://img.icons8.com/color/2x/python.png" /></a>Phyton</p>
+		</td>
+		<td align="center" width="20%">
+			<p><a align="center" href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+				<img style="display: block;" height=65px src="https://img.icons8.com/color/2x/javascript.png" /></a>JavaScript</p>
+		</td>
+		<td align="center" width="20%">
+			<p><a align="center" href="https://www.typescriptlang.org/">
+				<img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/typescript.png"/></a>TypeScript</p>
+		</td>
+		<td align="center" width="20%">
+			<p><a align="center" href="https://developer.mozilla.org/es/docs/Web/CSS">
+				<img style="display: block;" height=60px src="https://img.icons8.com/color/48/000000/css3.png" /></a>CSS</p>
 			</td>
   </tr>
 	<tr>
-		<td align="center" width="20%"><a align="center" href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
-			<p><img style="display: block;" height=65px src="https://img.icons8.com/color/2x/html-5.png" />HTML</p></a>
+		<td align="center" width="20%">
+			<p><a align="center" href="https://developer.mozilla.org/es/docs/Web/HTML">
+				<img style="display: block;" height=65px src="https://img.icons8.com/color/2x/html-5.png" />HTML</p></a>
 		</td>
-		<td align="center" width="20%"><a align="center" href="https://nextjs.org/" target="_blank">
-			<p><img style="display: block;" height=60px src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">Next JS</p></a>
+		<td align="center" width="20%">
+			<p><a align="center" href="https://nextjs.org/" >
+				<img style="display: block;" height=60px src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"></a>Next JS</p>
 		</td>
-		<td align="center" width="20%"><a align="center" href="https://nestjs.com/" target="_blank">
-			<p><img style="display: block;" height=60px src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png">Nest</p>
+		<td align="center" width="20%">
+			<p><a align="center" href="https://nestjs.com/">
+				<img style="display: block;" height=60px src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png"></a>Nest</p>
 		</td>
-		<td align="center" width="20%"><a align="center" href="https://es.reactjs.org/" target="_blank">
-			<p><img style="display: block;" height=60px src="https://img.icons8.com/ultraviolet/2x/react.png">React</p></a>
+		<td align="center" width="20%">
+			<p><a align="center" href="https://es.reactjs.org/">
+				<img style="display: block;" height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"></a>React</p>
 		</td>
 	</tr>
 </tbody>
 </table>
 
-____
-
-
+---
 
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
@@ -92,7 +104,7 @@ ____
 
 </p>
 
-____
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -114,4 +126,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
